@@ -1,0 +1,1555 @@
+ Add Reply
+ Don&#039;t have an account ?
+ Paid on:
+ Please configure your mail server settings accurately. This application will rely on your specified mail server to handle email delivery. Errors encountered during email operations are typically due to incorrect server settings. Ensure all credentials, such as the port, encryption method, and SMTP details, are correct. Use the Send Test Email button to validate your configuration. If an error occurs, review your settings and try again.
+ Processing...
+ Purchase Key
+ This logo will be removed after saving.
+ Updating module...
+ Updating system...
+ to update the version.
+#Select Color
+(Admin)
+(Enable this option to display an announcement on the login page.)
+123 Main St, City, State, ZIP
+A client has responded to their support ticket
+A new password reset link has been sent to your email address.
+A new ticket requires your attention
+A new verification link has been sent to the email address you provided during registration.
+A new verification link has been sent to your email address.
+A payment error occurred. Please try again.
+AI Integration
+AI Personal Assistants
+AI Prompts
+API Base URL
+API Endpoint Information
+API Integration &amp; Access
+API Management
+API Settings
+API Token
+APP_DEBUG:
+APP_ENV:
+Account Name
+Account Number
+Account Profile
+Account Security
+Accounts with Credit
+Action required: Please authenticate your payment for invoice #:invoice
+Activate Departments
+Activate Theme
+Active Departments
+Active Percentage
+Active Plan
+Active Status:
+Active Theme
+Active tickets
+Add Another Logo
+Add New FAQ
+Add Plan
+Add Role
+Add Subscription
+Add Tenant
+Add Tenant Language
+Add custom footer text for all invoices
+Add tax rate
+Add this URL to your Paystack dashboard webhook settings
+Additional Details
+Additional Instructions
+Address this high-priority ticket immediately
+Admin
+Admin Cache Status
+Admin Dashboard
+Admin Support System - Automated Notification
+Admin Support System - Client Response Alert
+Admin Viewed:
+Admin cache operations only affect global/admin data, not tenant-specific cache.
+Admin privileges in your Facebook Business Manager
+Admin replied to ticket
+Administrator Access
+Administrator Information
+Advanced Optimization
+After Amount
+All Invoices
+All Subscriptions
+All Tickets
+All Transactions
+All languages are already in sync
+All time
+Allow Tenant Registration
+Allow customers to pay using Payments
+Allow customers to pay using Paystack
+Allow customers to pay using Razorpay
+Allow new tenants to register on your platform
+Allow tenants to pay using offline payment methods
+Allow users to pay via bank transfer
+Allowed formats: JPEG, PNG. Max 512KB.
+Allowed formats: JPEG, PNG. Max 5MB.
+Already Registered ?
+Always provide at least the default language translation
+Amount Due
+Amount Paid
+An error occurred while verifying payment
+An error occurred:
+And :count more features
+Announcement
+Answer
+Answered
+Answered Tickets
+App ID
+App Key
+App Secret
+Application is running in development/debug mode!
+Apply Changes
+Approve Payment
+Approve each recurring payment when notified
+Approved on:
+Are you sure you want to activate this tenant?
+Are you sure you want to deactivate this tenant?
+Are you sure you want to delete
+Are you sure you want to delete this department? This action cannot be undone.
+Are you sure you want to delete this log file? This action cannot be undone.
+Are you sure you want to delete this plan? This may affect existing subscriptions.
+Are you sure you want to delete this webhook? This action will remove the webhook configuration from Stripe and your application and you will stop receiving webhook events from Stripe. This action cannot be undone.
+Are you sure you want to login as :name?
+Are you sure you want to mark this tenant for deletion? The tenant will continue to have access until their current subscription expires. No renewal invoices will be generated for marked tenants. Once the subscription expires, the tenant and all associated data including invoices, transactions, subscriptions, and account records will be permanently deleted by the cleanup process. This data cannot be recovered after deletion
+Are you sure you want to perform this action ?
+Are you sure you want to reject this payment? This action cannot be undone.
+Are you sure you want to suspend this tenant?
+Assign Department
+Assign To
+Assign to Admin
+Assign to User
+Assign to appropriate team member if needed
+Assign to users
+Assigned Admins
+Assigned admins updated successfully.
+Attach any supporting files if necessary
+Attachments:
+Authenticate Now
+Authenticate Payment
+Authenticate Recurring Payment
+Author Name
+Auto Billing Setup Required
+Auto Clear Chat History
+Auto Renewal
+Auto charging is not supported for PayPal. Please set up subscription billing.
+Auto-generated if empty
+Available Merge Fields
+Available Plans
+Average Credit
+Awaiting action
+Awaiting info
+Back to Invoices
+Back to Modules
+Back to Plans
+Back to Templates
+Back to Transactions
+Back to subscription
+Back to tickets
+Bank Details
+Bank Name
+Bank Transfers
+Base price
+Basic Information
+Before Amount
+Before you start using subscriptions, please set your base currency.
+Best Practices
+Best Selling Plan
+Bill To
+Billing Cycle
+Billing Overview
+Billing Period
+Bot Flow
+Bot Protection
+Bot Reply
+Bot Reply Limit
+Brand Name
+Brief description of this payment method
+Bug Fix
+Bulk Actions
+Bulk Delete
+Business Address
+Business Email
+Business Information
+Business Name
+Cache Dir Writable:
+Cache Driver:
+Cache Health:
+Cache Management
+Cache cleared successfully
+Cache service not initialized. Please refresh the page.
+Cache service reinitialized successfully.
+Campaigns Limit
+Cancel At Period End
+Cancels at period end
+Canned Replies
+Cannot change base currency while subscriptions exist
+Capabilities
+Cards, Bank Transfer, Mobile Money
+Change
+Change Department
+Change Log
+Change Priority
+Change Status
+Change Tenant Status
+Changes will be applied after saving
+Check the status and connectivity of your Redis server for caching and queuing.
+Check your email for payment authentication links when renewals are due
+Checkout with PayPal
+Choose a company
+Choose a plan
+Choose different file
+Choose the correct department based on the issue type
+Clear All Filters
+Clear All Logs
+Clear Names:
+Clear cache routing.
+Clear compiled views to make views up to date.
+Clear config - You might need to refresh the config caching when you change something on production environment.
+Clear system log files.
+Click here to add merge fields
+Click in editor to add merge fields
+Click on &#039;Configure Webhooks&#039; in the Webhooks section
+Click to browse
+Click to insert
+Client History Summary:
+Client Id
+Client Information
+Client Message:
+Client Secret
+Client Since:
+Client:
+Close Ticket
+Closed
+Closed Tickets
+Cluster
+Code
+Collect and calculate taxes on subscriptions and invoices
+Company Address
+Company City
+Company Email
+Company Information
+Company Name
+Company State
+Company Zip Code
+Complete the authentication process for your recurring payment
+Complete your payment using Razorpay
+Completion Rate
+Comprehensive view of all support tickets
+Configuration stored successfully
+Configuration sync required:
+Configure Partner Logos for your site
+Configure Paystack payment gateway for accepting payments
+Configure Redis environment variables in .env file
+Configure Stripe Webhooks
+Configure Webhook
+Configure automatic billing for recurring subscriptions
+Configure fundamental system-wide parameters and default behaviors that impact overall application performance and user experience. 
+Configure how tenants can pay you using offline payment methods.
+Configure how your application stores cached data for improved performance.
+Configure the  Feature for your site
+Configure the Custom CSS for your site
+Configure the Custom JS for your site
+Configure the Testimonial for your site
+Configure the Unique Feature for your site
+Configure the section title subtitle for your site
+Configure the webhook endpoint for your Meta WhatsApp Business API integration.You&#039;ll need:
+Configure these events in your Paystack dashboard:
+Configure these webhook events in your PayPal Developer Dashboard
+Configure webhook endpoints in your Razorpay dashboard
+Configure webhooks to receive real-time payment updates from your payment providers.
+Configure your API token settings below.
+Configure your PayPal payment gateway settings. You can get these credentials from your PayPal Developer Dashboard.
+Configure your Stripe payment gateway settings
+Configure your webhook connection for the WhatsApp Business API
+Configured
+Configuring...
+Confirm Approval
+Confirm Password
+Confirm Registration
+Confirm Rejection
+Congratulations! Your cronjob is running.
+Connect Webhook
+Connection Status:
+Connections
+Contact Information
+Contact Limit
+Contact Support
+Contact administrator to add fields
+Contact disabled successfully
+Contact enabled successfully
+Contacts
+Conversation Limit
+Copied
+Copied to clipboard!
+Country Select
+Coupon Code
+Coupon Information
+Coupon Name
+Coupon Type
+Coupon Usage Details
+Coupon Value
+Coupon created successfully
+Coupon deleted successfully
+Coupon not found
+Coupon updated successfully
+Coupons
+Cover page image
+Create Account
+Create Coupon
+Create Department
+Create New Page
+Create New Ticket
+Create Plan
+Create Support Ticket
+Create Tenant
+Create Ticket
+Create User
+Create a Facebook App in the
+Create your account to get started
+Create your account to get started with WhatsApp marketing
+Created At
+Created From
+Created Until
+Created:
+Creating a Ticket
+Credit &amp; Debit Cards
+Credit Added
+Credit Applied
+Credit Balances
+Credit Deducted
+Credit Details
+Credit List
+Credit Management
+Credit Transaction History
+Critical
+Critical issues requiring immediate attention
+Cron Job Not Running
+Cron job executed successfully
+Cronjob
+Currency Code
+Currency Placement
+Currency added successfully
+Currency delete failed
+Currency deleted successfully
+Currency save failed
+Currency updated successfully
+Current Password
+Current Period
+Current Subscription
+Custom CSS
+Custom CSS settings
+Custom Fields
+Custom JS for Footer
+Custom JS for Header
+Custom JS settings
+Custom JavaScript
+Custom domain is configured for this tenant
+Customize your application by setting the favicon, site logo, dark logo, and cover page image to enhance branding and user experience.
+Dark
+Dark Logo
+Database upgraded successfully
+Date Format
+Datetime
+Days Left
+Days Remaining
+Deactivate Departments
+Deactivate License
+Deactive
+Debug
+Decimal Separator
+Default Country Code
+Default Language
+Default Plan
+Default Taxes
+Default Tenant Language
+Default plan set successfully
+Delete Contact
+Delete Coupon
+Delete Currency
+Delete Department
+Delete Departments
+Delete FAQ
+Delete Image
+Delete Language
+Delete Log File
+Delete Page
+Delete Plan
+Delete Role
+Delete Tax
+Delete Tenant
+Delete Tenant Language
+Delete Ticket
+Delete Tickets
+Delete User
+Delete Webhook
+Deleting departments affects existing tickets
+Deletion Impact:
+Department Added Successfully
+Department Deleted Successfully
+Department Management Guidelines
+Department Name
+Department Statistics
+Department Updated Successfully
+Department has been deleted successfully.
+Department has tickets error
+Department is activated
+Department is deactivated
+Department saved successfully
+Department status changed to
+Department:
+Departments Management
+Departments Translated
+Departments have been activated.
+Departments have been deactivated.
+Departments updated successfully
+Detailed Statistics &amp; Analytics
+Detailed instructions for tenants on how to complete the payment
+Disabled production mode successfully
+Disconnect Webhook
+Display Bank Details on Invoices
+Display landing Page
+Doe
+Domain
+Domain Settings
+Don&#039;t have an account ?
+Download Invoice
+Download Update
+Download failed
+Driver Settings
+Due Date:
+Duplicate Message Detected
+EXPIRES
+Earnings Report
+Ecommerce Webhooks
+Edit Coupon
+Edit Department
+Edit Plan
+Edit Role
+Edit Template
+Edit Tenant
+Edit Tenant Language
+Edit english language not allowed
+Editing Template
+Effortless WhatsApp Marketing
+Email Configuration
+Email Configuration is required
+Email Content
+Email Password Reset Link
+Email Preview
+Email Subject
+Email Template Editor
+Email Template update Failed
+Email Template updated successfully
+Email Templates
+Email Verification
+Email sent successfully
+Email sent successfully using Laravel Emails package! Check your inbox.
+Email testing failed: No recipient address provided.
+Email:
+Embedded Signup
+Emergency
+Enable API Access
+Enable Debug Mode
+Enable Desktop Notifications
+Enable Email Confirmation From Administrator
+Enable Email Verification
+Enable Paypal Payments
+Enable Paystack Payments
+Enable Production Mode
+Enable Razorpay Payments
+Enable Re-Captcha?
+Enable Real Time Notifications
+Enable Registration
+Enable Send Welcome Mail
+Enable Stripe Payments
+Enable Tax Collection
+Enable WebHooks Re-send
+Enable offline payments
+Enable these events: payment.captured, payment.failed, order.paid, payment.authorized
+Enabled Events
+Enabled production mode successfully
+End Date
+Endpoint URL
+Ends
+Ends At
+Engage Tenants
+Engage with your customers seamlessly
+English To
+Enter Email Address
+Enter Firstname
+Enter Lastname
+Enter Limit
+Enter Password
+Enter Phone Number
+Enter Plan Description
+Enter Plan Name
+Enter Plan Price
+Enter Role Name
+Enter confirm password
+Enter email subject
+Enter payment instructions for customers
+Enter the Verify Token provided above
+Enter the Webhook URL provided above
+Enter your Facebook App ID
+Enter your Facebook App Secret
+Enter your Facebook Config ID
+Environment
+Environment Updated
+Environment file changed, cache cleared 
+Error assigning ticket to department.
+Error configuring webhooks:
+Error loading extension information: 
+Error loading server information: 
+Error loading system information: 
+Error saving plan
+Error updating ticket status.
+Error | WhatsMark - Saas
+Exchange Rate
+Existing Attachments
+Expires At
+Expires On
+Expiring Subscriptions
+Export Departments
+FAQ
+FAQ created successfully
+FAQ delete failed
+FAQ is now hidden
+FAQ is now visible
+FAQ order has been updated successfully
+FAQ save failed
+FAQ updated successfully
+FAQs
+Facebook App ID
+Facebook App Secret
+Failed To Delete Plan
+Failed To Update plan Status
+Failed payment
+Failed remove the testimonial.
+Failed to clear cache after env change:
+Failed to clear cache: 
+Failed to configure webhook: 
+Failed to configure webhooks. Check the application logs for details.
+Failed to copy to clipboard
+Failed to create language file
+Failed to delete department
+Failed to delete language
+Failed to delete tax
+Failed to delete webhook:
+Failed to disconnect webhook:
+Failed to execute cronjob
+Failed to fetch plans
+Failed to get webhook details:
+Failed to get webhook details: 
+Failed to list products:
+Failed to list webhooks:
+Failed to load release data
+Failed to load webhooks: 
+Failed to reinitialize cache service: 
+Failed to remove profile image
+Failed to restore tenant
+Failed to save changes:
+Failed to save department
+Failed to save language
+Failed to save role!
+Failed to save settings
+Failed to save settings:
+Failed to save tax
+Failed to save ticket
+Failed to send mail.
+Failed to send test email:
+Failed to sync languages
+Failed to update environment
+Failed to update optimization settings
+Failed to update payment status
+Failed to update production mode
+Failed to update status
+Failed to upload attachment:
+Failed to upload:
+Faq Section Subtitle
+Faq Section Title
+Faq deleted successfully
+Favicon
+Feature Description
+Feature Image
+Feature List
+Feature One
+Feature Subtitle
+Feature Three
+Feature Title
+Feature Two
+Feature settings
+Featured Plan
+Fee
+File Upload
+File Validation Errors:
+File size
+File size exceeds the maximum limit of
+File structure
+File uploads disabled - ticket is closed.
+File validation successful!
+Fill in the information below to create a new support ticket
+Filter Subscriptions
+Final Total
+First Name
+Firstname
+Fixed Amount
+Flow Builder
+Flow Builder Limit
+For Offline Payments
+For support, you can contact the admin at
+Forgot Password
+Forgot password
+Free Plan
+From
+Generate New Token
+Generate Secret
+Generate from name
+Generate from title
+Get Started In Minutes
+Get started by adding your first tax rate
+Get started by creating a new plan
+Get started by creating new faq
+Go Back Home
+Guidelines
+Has Custom Domain
+Hello
+Here&#039;s how the auto-billing process works:
+Hero Section
+Hero Section settings
+Hide Preview
+High
+High Priority
+Highest Credit
+Highlight this plan on subscription pages
+Hit Rate:
+Horizon Available
+ID
+IFSC Code
+Iban
+Image Alt Text
+Image removed successfully!
+Implement advanced bot prevention and user verification mechanisms to protect your application from automated attacks and spam.
+Important Information
+Important Notes
+Important Update Notice
+Important issues that should be addressed soon
+Improvement
+In your stripe dashboard go to
+Inactive Departments
+Include all relevant details in the description
+Information about your configured Stripe webhooks.
+Install Redis server on your system
+Invalid JSON format
+Invalid PayPal Client ID format
+Invalid PayPal Client Secret format
+Invalid Stripe webhook secret format. It should start with &#039;whsec_&#039;
+Invalid email address
+Invalid file type. Allowed:
+Invalid payment authentication link. Please request a new payment link.
+Invalid testimonial image
+Invoice #
+Invoice Date
+Invoice Details
+Invoice Footer Text
+Invoice Information
+Invoice Items
+Invoice Number
+Invoice Settings
+Invoice Summary
+Is Active
+Is Enable
+Is Verified User
+Issue resolved
+JSON content is empty
+JSON must be an object/array
+John
+Join Us Today
+Joined
+Key ID
+Key Id
+Key Secret
+Keys found
+Language Code
+Language Manager
+Language Name
+Language added successfully
+Language deleted successfully
+Language file not found
+Language file updated successfully
+Language switched successfully
+Language synchronized successfully
+Language updated successfully
+Languages Supported
+Last Activity
+Last Activity:
+Last Cleared:
+Last Name
+Last Synced with Stripe
+Last Updated:
+Last checked at
+Lastname
+Latest Invoice
+Latest Invoice ID
+Latest Payment
+Latest Reply from
+Latest Version
+Leave blank to keep current password
+Leave blank to use the default pusher cluster.
+Leave empty to use default admin email
+Level
+Light
+Link Storage.
+Link Text
+List of users using this role
+Loading detailed statistics...
+Loading plan data...
+Loading webhook details...
+Local
+Local Webhook Records
+Localization
+Log Out
+Log Viewer
+Log in
+Logical Structure:
+Login As
+Login As Tenant
+Login as Tenant User
+Login as User
+Login as tenant successfully
+Logo Image
+Logo to be removed
+Low
+Mail Successfully Sent.
+Mail sending failed
+Make sure to enter valid currency ISO code.
+Manage
+Manage Coupons
+Manage SMTP settings, email templates, and outgoing communication preferences to ensure reliable and professional email communications.
+Manage Theme
+Manage departments for ticket categorization
+Manage subscriptions
+Manage webhooks to enable seamless integration with external services.
+Mark Tenant for Deletion
+Maximum 5 files are allowed per reply.
+Maximum 5 files, 10MB each
+Maximum 5 files. Maximum size per file: 10MB. Allowed types:
+Maximum Queue Jobs
+Maximum file size:
+Maximum file size: 2MB • File must be named:
+Maximum number of times a single customer can use this coupon
+Maximum number of times this coupon can be used
+Medium
+Memory Usage
+Merge Fields
+Message Bots
+Message Content
+Meta Application Details
+Meta Description
+Meta Developer Portal Setup Instructions:
+Meta Keywords
+Meta Title
+Meta WhatsApp API Webhook
+Meta WhatsApp Business API Setup
+Meta for Developers
+Method
+Miscellaneous
+Missing Translations
+Mobile Money
+Module Details
+Module Update Management
+Modules
+Monitor
+Monitor Horizon
+Monthly
+Monthly Revenue
+Most Popular
+Multi-Currency Support
+Multiple files can be attached
+Must be one base currency
+Must use Re-Captcha v3 in credentials setup. Be careful, the wrong settings will make the login system interruption.
+My Profile
+Name:
+Navigate to WhatsApp &gt; Setup in your app dashboard
+Need help?
+Never
+New Attachments
+New Client Reply
+New Client Reply - Ticket
+New Currency
+New Department
+New Feature
+New Password
+New Priority
+New Role
+New Status
+New Subscription
+New Support Ticket
+New Tenant
+New Tenants
+New Update Available! The WhatsMark script has a new update.
+New User
+New ticket
+New webhook secret
+Next Billing
+Next invoice number in sequence
+No Active Subscription
+No Credit Balance
+No Credit Transactions
+No FAQs available
+No Faqs Found
+No Plan Available
+No Stripe webhooks are currently configured.
+No Tickets Selected
+No changes to save.
+No contact selected
+No custom domain has been configured for this tenant
+No department data available.
+No departments selected
+No departments with tickets found.
+No expiring subscriptions
+No fields found
+No fields in category
+No history available for this subscription.
+No invoices found
+No local webhook records found.
+No log entries found. The file may be empty.
+No log entries.
+No log file selected
+No log files
+No matching fields in group
+No merge fields available.
+No more assignees to select
+No more taxes to select
+No plans found
+No recent transactions
+No recommendations available at this time
+No release information available
+No staff assigned
+No subscriptions found.
+No tax rates
+No templates found.
+No themes found in your theme folder
+No transactions found.
+No users available to assign
+No users found
+No valid translation strings found
+No webhooks found
+Not Configured
+Not Set
+Notice
+Notification Email
+Notification Sound
+Notify Administrator When New Tenant Register
+OG Description
+OG Settings
+OG Title
+Obtain your Google Re-Captcha credentials
+Official WhatsApp Webhook Documentation
+Offline Instructions
+Offline Payment
+Offline payment settings
+Offline payment settings description
+Once you have active subscriptions, you
+Only active departments appear in ticket forms
+Open
+Open Sidebar
+Open Tickets
+Open Tickets:
+Open user menu
+Optimization settings updated successfully
+Optional: Secret for webhook signature verification
+Original Attachments
+Outline
+Overview of all tenant accounts with positive credit balances
+Overview of department metrics
+Page activated successfully
+Page created successfully
+Page deactivated successfully
+Page delete failed
+Page deleted successfully
+Page save failed
+Page updated successfully
+Paid
+Paid Invoices
+Parent Page
+Partner Logo
+Partner Logo settings
+Partner Logos
+Partner logos saved successfully!
+Password Recovery
+Password updated successfully!
+Password updated successfully. You have been logged out.
+Pause Subscription
+Paused
+Paused At
+Pay Now
+PayPal
+PayPal Client ID
+PayPal Client Secret
+PayPal Configuration
+PayPal Mode
+PayPal Payment
+PayPal Payment Settings
+Payment Approved
+Payment Authentication
+Payment Authentication Required
+Payment Date
+Payment Failures
+Payment Gateway
+Payment Gateway Settings
+Payment Gateway Webhooks
+Payment Gateways
+Payment ID
+Payment Information
+Payment Instructions
+Payment Method
+Payment Reference
+Payment Rejected
+Payment Settings
+Payment completed successfully
+Payment failed. Please try again.
+Payment gateway settings saved successfully.
+Payment gateways updated successfully.
+Payment token is missing
+Payment verification failed. Please try again.
+Paystack
+Paystack Configuration
+Paystack Payment Settings
+Pending Subscriptions
+Pending Tickets
+Performance Optimization
+Performance Recommendations
+Period
+Personal Information
+Phone:
+Plan Details
+Plan Distribution
+Plan Features
+Plan Name
+Plan Price
+Plan activated successfully
+Plan created successfully
+Plan deactivated successfully
+Plan deleted successfully
+Plan marked as featured
+Plan not found
+Plan unmarked as featured
+Plan updated successfully
+Plans Page Link
+Plans Page Settings
+Plans Page Title
+Plans Read
+Please authenticate this payment to continue your subscription. This is required by RBI regulations for all recurring payments.
+Please check your cron job setup. It has not run in the last 48 hours.
+Please copy your new API token now.
+Please enter your credentials to continue
+Please fix the upload errors before saving.
+Please provide a reason for rejecting this payment...
+Please select a plan to continue.
+Please select an action
+Please select an option
+Please select departments to perform bulk action
+Please wait while we retrieve the subscription information.
+Prefix
+Price
+Pricing &amp; Limits
+Pricing Plan
+Pricing Section Subtitle
+Pricing Section Title
+Primary
+Primary Button Text
+Primary Button Type
+Primary Button URL
+Priority Levels
+Priority:
+Privacy Policy
+Processed
+Processing Days
+Processing cache clearing...
+Processing days example
+Processing error
+Profile Image
+Profile Image Removed Successfully
+Profile updated successfully
+Provide translations for all supported languages
+Provide translations for different languages. The default language translation is required.
+Provider
+Public Key
+Publishable Key
+Pusher
+Pusher connection test failed, Check logs for more details
+Pusher connection test successful!
+Pusher test connection error:
+Pusher test connection failed:
+QR Code Payments
+Qty
+Quantity
+Question
+Queue Driver
+Queue Method
+Queue Monitoring
+Queues allow deferring time-consuming tasks, such as sending emails, until a later time.
+Quick Actions
+Quick Filters
+Quick Response Tips:
+Quick setup to launch your marketing campaigns
+RBI Compliance for Recurring Payments
+Ranked by activities
+Razorpay
+Razorpay API Keys
+Razorpay Configuration
+Razorpay Payment
+Razorpay Payment Settings
+Razorpay payment is currently not available
+Re-Captcha
+Re-Captcha site key
+Re-Captcha site secret
+Real-Time Event Broadcasting
+Reason for Rejection
+Reason: 
+Recent Invoices
+Recent Transactions
+Recent Webhook Activity
+Recommended Actions:
+Recommended size
+Redis
+Redis Not Available
+Redis Server Status
+Redis connection test failed
+Redis connection test successful
+Redis queue is enabled. Configure workers to process background jobs efficiently.
+Redis queue is now enabled. Laravel Horizon is available for queue monitoring.
+Refresh Service
+Regenerate Secret
+Registrations are temporarily closed
+Reject Payment
+Rejected on:
+Remember me
+Remove Image
+Removed successfully
+Renew Support
+Reopen Ticket
+Replied to
+Replies:
+Reply &amp; Close
+Reply Date:
+Reply added successfully!
+Reply attachment upload failed
+Reply deleted successfully!
+Reply to Client
+Require email verification before tenants can access their accounts
+Require registration confirmation from administrator after tenant register
+Required File Name
+Resend Verification Email
+Reset Password
+Reset to Defaults
+Resolved
+Resource Limits
+Respond to the client promptly
+Response sent
+Rest API
+Resume Now
+Resume Subscription
+Resume subscription on
+Resumes At
+Return to Dashboard
+Revenue
+Revenue Over Time
+Review Ticket in Admin Panel
+Review the client&#039;s response thoroughly
+Role created successfully
+Role deleted successfully
+Role updated successfully
+Roles &amp; Permissions
+Run Cron Manually
+Run Tool
+Running...
+SMTP
+SMTP Encryption
+SMTP Host
+SMTP Password
+SMTP Port
+SMTP Protocol
+SMTP Username
+SR.NO
+SSL
+SSL is required for desktop notifications.
+Sales
+Sample keys
+Sandbox Mode
+Save Changes
+Save Configuration
+Save Plan
+Save Secret
+Save Settings
+Save Template
+Save your payment method for future use
+Saving...
+Schedule and manage automated background tasks, ensuring timely execution of system maintenance and periodic processes.
+Scheduled Tasks Management
+Search FAQs...
+Search Tenant
+Search merge fields
+Search plans
+Secondary Button Text
+Secondary Button Type
+Secondary Button URL
+Secret Key
+Section title subtitle settings
+Secure Password Reset
+Secure payment powered by PayPal
+Secure your webhooks with a secret token to verify requests
+Select Action
+Select Admin
+Select Admin to Add
+Select Assignees
+Select Country
+Select Date Format
+Select Default Language
+Select Department
+Select File
+Select Language
+Select Option
+Select Period
+Select Priority
+Select Role
+Select SMTP Encryption
+Select SMTP Protocol
+Select Status
+Select Taxes
+Select Tenant
+Select Time Format
+Select Timezone
+Select a Plan
+Select assignee
+Select taxes that should be applied to invoices by default
+Select the appropriate client for this ticket
+Selected Assignees:
+Selected Files
+Selected image preview
+Selected:
+Send Reply
+Send Test Email
+Send Welcome Mail
+Send email notification
+Send reset link
+Send test email to make sure that your SMTP settings is set correctly.
+Sender Email
+Sender Name
+Sending...
+Sends welcome email to new users after registration.
+Session Driver
+Set Invoice And Payment Details
+Set background color
+Set link text color
+Set message color
+Set realistic expectations for resolution
+Set the default language for new tenants registering on the platform
+Set the maximum number of jobs that can be processed in a single queue run. It may impact the server performance.
+Set the number of items per page for tables across the application.
+Set up and manage your terms and conditions page that users can view
+Set up the basic information for your offline payment method
+Set up webhooks to receive real-time notifications when events happen in your Stripe account.
+Set up webhooks to receive real-time payment notifications from PayPal
+Setting up the Cronjob
+Settings have been reset to default values
+Settings saved successfully
+Settings saved successfully.
+Setup Auto Billing
+Setup Guide
+Setup Subscription
+Show Preview
+Show active only
+Show in menu
+Showing page
+Sign in to access your WhatsApp marketing dashboard
+Site Description
+Site Logo
+Site Name
+Site-Wide Announcements
+Size:
+Slug
+Software Update Management
+Some selected departments have tickets assigned to them.
+Something went wrong!
+Staff
+Start Date
+Started
+Started At
+Started On
+Starts At
+Status Options
+Status updated successfully
+Status:
+Stop Bot
+Storage linked successfully
+Stripe
+Stripe Configuration
+Stripe Payment Settings
+Stripe Subscription ID
+Stripe Webhook Details
+Subdomain
+Subject:
+Subscribe to these fields:
+Subscribed By
+Subscribed On 
+Subscription Details
+Subscription Plans
+Subscription Renewal
+Subscription Stats
+Subscription Status
+Subscription Summary
+Subscription Timeline
+Subtotal
+Successful
+Successful Payments
+Successful Transactions
+Successful payment
+Successfully returned to admin panel
+Summary Statistics
+Support Agent
+Support Tickets
+Supported Currencies
+Supported Features
+Supported formats: Images, Documents, Archives
+Suspended
+Swift Code
+Symbol
+Sync Languages
+Sync with Stripe
+System
+System Core Settings
+System Information
+System Logs
+System Settings
+System Statistics
+System Tools
+System Update
+TLS
+Table Configuration
+Tables Pagination Limit
+Tax
+Tax Enabled
+Tax Id Vat Number
+Tax Name
+Tax Rates
+Tax Settings
+Tax added successfully
+Tax deleted successfully
+Tax updated successfully
+Taxes
+Team Limit
+Team Members
+Template Bots
+Template Configuration
+Template Information
+Template Name
+Template not found
+Tenant
+Tenant Credit Balances
+Tenant Details
+Tenant Information
+Tenant Languages
+Tenant Name
+Tenant Settings
+Tenant Users
+Tenant Viewed:
+Tenant created successfully
+Tenant deleted successfully
+Tenant marked for deletion successfully
+Tenant name has already been taken
+Tenant name is required.
+Tenant not found
+Tenant restored successfully
+Tenant status updated
+Tenant status updated successfully
+Tenant updated successfully
+Tenant verified successfully
+Tenants
+Terms of Service
+Test Connection
+Test Mode
+Test Pusher
+Testimonial
+Testimonial not found
+Testimonial settings
+Testimonials
+Testimonials updated successfully
+Text to add before invoice number
+Thank you for your business. All payments are due within the specified due date.
+Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn&#039;t receive the email, we will gladly send you another.
+The Role is already being used
+The Translation Cannot Be A JSON object Or Array
+The file must be a valid JSON file
+The selected user must be an active admin to assign tickets.
+The uploaded file name must match this exact pattern
+Theme Manager
+Theme Settings
+Theme Style
+Theme Style Settings
+There are no subscription plans available at the moment.
+There was a problem with your payment authentication link.
+There was an error assigning the ticket to the department.
+There was an error updating the ticket priority.
+There was an error updating the ticket status.
+These are the default permissions for API access
+These details for offline payments.
+These instructions will be shown to customers during checkout
+This
+This URL must be publicly accessible for Stripe to send webhook events.
+This account cannot be deactivated.
+This action cannot be undone.
+This authentication link will expire in 24 hours. If you don&#039;t authenticate the payment, your subscription benefits may be affected.
+This coupon has expired
+This coupon has not been used yet.
+This coupon has reached its usage limit
+This coupon is not active
+This department has tickets assigned to it.
+This email was sent to notify you of client activity requiring attention.
+This email was sent to notify you of new ticket activity.
+This information appears on your invoices
+This is a secure area of the application. Please confirm your password before continuing.
+This is the default subdomain for accessing the tenant
+This logo will be displayed on your site.
+This payment has already been processed successfully.
+This payment has been rejected.
+This plan is available for subscription
+This plan is selected by default for new tenants
+This plan will be offered for free with no billing
+This tenant does not have an active subscription
+This text appears at the bottom of all invoices
+This ticket is closed. To add a reply, please reopen the ticket first.
+This ticket requires immediate attention!
+This transaction is not an offline payment.
+This transaction is not pending.
+This will completely block the tenant&#039;s access.
+This will restore full access to the tenant&#039;s services.
+This will temporarily suspend the tenant&#039;s access.
+Thousand Separator
+Ticket #
+Ticket Closed
+Ticket Departments
+Ticket Details
+Ticket ID:
+Ticket Information
+Ticket closed by admin
+Ticket closed by admin after reply
+Ticket closed successfully!
+Ticket created successfully!
+Ticket deleted successfully
+Ticket reopened successfully!
+Ticket updated successfully!
+Tickets deleted successfully
+Time Format
+Timeline
+To enable Redis, please complete the following steps
+To exit impersonation, look for the exit button in the admin bar.
+Toggle Switch
+Toggle to enable/disable Stripe payment gateway
+Token Abilities
+Top Departments
+Total Campaigns
+Total Clients
+Total Credit Remaining
+Total Credits
+Total Days
+Total Departments
+Total Earnings
+Total Invoices
+Total Keys:
+Total Savings
+Total Size:
+Total Subscriptions
+Total Tickets
+Total Tickets:
+Total Transactions
+Total Usage
+Total Users
+Total Uses
+Total number of attachments cannot exceed 5 files.
+Total subscriptions
+Transaction Details
+Transaction History
+Transaction Id
+Transaction Summary
+Transactions
+Translate
+Translate Language
+Translation Management
+Translation Statistics
+Translation Stats
+Translation keys found
+Translation updated successfully
+Translations:
+Trial Days
+Trial Ends
+Trial Ends At
+Try adjusting your search terms
+URL
+USSD Payments
+Unique Feature
+Unique Feature Description
+Unique Feature Image
+Unique Feature List
+Unique Feature Subtitle
+Unique Feature Title
+Unique Feature settings
+Unique Tenants
+Units
+Unknown Tenant
+Unlike other payment gateways, Razorpay cannot automatically charge your payment method without your authentication due to RBI guidelines. You must approve each recurring payment.
+Unlimited
+Unpaid
+Unread Tickets
+Unsupported payment provider:
+Update Assigned
+Update Password
+Update Plan
+Update Tenant
+Update Ticket
+Update priority if necessary
+Update your Hero Section Settings.
+Update your Open Graph Settings
+Update your Partner Logo Settings
+Update your SEO Settings
+Updated Base Currency
+Upload File
+Upload Files
+Upload Language File
+Upload failed
+Upload failed. Please try again.
+Urgent
+Urgent attention
+Usage
+Usage History
+Usage Limit
+Use -1 for unlimited
+Use descriptive, understandable department names
+Use this URL in your Meta for Developers webhook configuration.
+Use this URL in your Stripe dashboard to configure webhooks
+Use this url in your gateway webhook settings
+Used Count
+User Deactivated
+User activated successfully
+User deactivated successfully
+User deleted successfully
+User not found
+User not verified
+User saved successfully
+User updated successfully
+Validation failed
+Validation failed due to unexpected error
+Verify Email
+Verify Webhook Connection
+Version Information
+View All Invoices
+View Documentation
+View PDF
+View Template
+View Tickets
+View WhatsApp Webhook Documentation
+View all transactions
+Visit Site
+Warning: Deleting departments will also affect associated tickets. This action cannot be undone.
+We recommend generating a webhook secret to secure your payment events
+We&#039;ll send instructions to your email
+Webhook Configuration
+Webhook Connection
+Webhook Endpoint URL
+Webhook Endpoint Url
+Webhook Events
+Webhook ID updated successfully.
+Webhook ID:
+Webhook Id
+Webhook Resend Method
+Webhook Secret
+Webhook Settings
+Webhook Setup Instructions
+Webhook URL
+Webhook URL copied to clipboard
+Webhook already properly configured.
+Webhook configuration
+Webhook configurations stored in your application database.
+Webhook connected successfully
+Webhook created successfully.
+Webhook deleted successfully.
+Webhook secret for verification
+Webhook secret is configured
+Webhook secret not configured
+Webhook secret updated successfully.
+Webhook updated successfully.
+Webhook verified
+Webhooks configured successfully.
+Website SEO &amp; OG
+Website SEO &amp; Open Graph
+Website SEO settings
+Website Settings
+Welcome Back
+Welcome to your admin dashboard
+Welcome! Your registration is completed successfully.
+WhatsApp Webhook Configuration
+WhatsApp webhook disconnected successfully.
+WhatsMark-Saas
+WhatsMark-Saas - Your WhatsApp Marketing Solution
+Whatsapp Auto Lead
+Whatsapp Webhook
+Whatsmark Ping Received
+When enabled, bank details will appear on invoice documents.
+When enabled, visitors will see the landing page.
+Will be deleted
+With Layout
+With Tickets
+Without Tickets
+Worker Active
+Worker Inactive
+Workers
+Yearly
+Yes, Approve
+Yes, Reject
+You Can&#039;t Delete Base Currency
+You can learn more about cronjob from the Laravel
+You can&#039;t delete this tenant because it&#039;s connected to subscriptions
+You cannot delete this reply. Replies can only be deleted by admins within
+You cannot perform this action
+You do not have permission to perform this action.
+You have selected the plan:
+You&#039;re about to pause subscription for tenant
+You&#039;re about to resume subscription for tenant
+Your Company Name
+Your PayPal application client ID from the Developer Dashboard
+Your PayPal application client secret from the Developer Dashboard
+Your Version
+Your `.env` files are out of sync with the current system requirements.
+Your subscription payment requires authentication as per RBI regulations.
+and
+by
+cannot change
+configure
+customer.subscription.created
+departments selected
+enter_the_url_above_and_select_these_events
+env updated successfully
+false
+here
+html markdown supported
+messages, message_template_status_update, account_update
+meta vild card fasility support nathi kartu etle
+mo
+of
+of total
+on behalf of
+per file
+portal
+production
+reCAPTCHA verification failed. Please try again.
+setting
+the base currency.
+ticket(s)?
+to update them automatically.
+uses
+vs previous
+yr
+© 2025 Your SaaS Platform. All rights reserved.
+✓ Set as base currency if this will be your primary currency for subscriptions
+🚨 HIGH PRIORITY TICKET 🚨
